@@ -9,30 +9,31 @@
 
 ### Данные находятся в файле Hr data_monetary. Разработанные дашборд доступен по ссылке https://public.tableau.com/app/profile/gareeva.marina/viz/Lesson_3_Gareeva_Monetary/sheet15?publish=yes
 
-### Описание данных:
-Name	Description
-Age	Возраст
-BusinessTravel	Категория частоты бизнес-поездок (часто или не часто ездит)
-Department	Департамент, в котором числится работник
-DistanceFromHome	Расстояние между домом и офисом в километрах
-EducationField	Область образования
-EmployeeCount	Колонка для расчета суммарного количества работников
-EmployeeNumber	ID работника
-Gender	Пол (мужской, женский)
-PerformanceRating	Оценка работы сотрудника (1-4, где 4 - превосходный результат)
-JobRole	Должность
-JobSatisfaction	Уровень удовлетворенности работой (1-4, где 4 - очень удовлетворен)
-MaritalStatus	Семейное положение
-MonthlyIncome	Месячный доход
-NumCompaniesWorked	Количество компаний, в которых до этого работал сотрудник
-ProjectsClosed	Количество закрытых проектов за год
-TotalWorkingYears	Общий стаж работу в количестве лет
-TrainingTimesLastYear	Количество часов повышения квалификации в прошлом году
-WorkLifeBalance	Уровень удовлетворенности соотношением работы и личной жизни (1-4, где 4 - отличный баланс)
-YearsAtCompany	Количество лет в компании
-YearsInCurrentRole	Количество лет в текущей должности
-YearsSinceLastPromotion	Количество лет с даты последнего повышения
-YearsWithCurrManager	Количество лет вместе с текущим менеджером
 
 ![Премии сотрудников](https://user-images.githubusercontent.com/104904113/201986698-6ee8507a-4338-42da-ab45-3a4f45c8fd25.jpg)
+
+### Описание данных:
+Name	Description  
+Age	Возраст  
+BusinessTravel	Категория частоты бизнес-поездок (часто или не часто ездит)  
+Department	Департамент, в котором числится работник  
+DistanceFromHome	Расстояние между домом и офисом в километрах  
+EducationField	Область образования  
+EmployeeCount	Колонка для расчета суммарного количества работников  
+EmployeeNumber	ID работника   
+Gender	Пол (мужской, женский)  
+PerformanceRating	Оценка работы сотрудника (1-4, где 4 - превосходный результат)  
+JobRole	Должность  
+JobSatisfaction	Уровень удовлетворенности работой (1-4, где 4 - очень удовлетворен)  
+MaritalStatus	Семейное положение  
+MonthlyIncome	Месячный доход  
+NumCompaniesWorked	Количество компаний, в которых до этого работал сотрудник  
+ProjectsClosed	Количество закрытых проектов за год  
+TotalWorkingYears	Общий стаж работу в количестве лет   
+TrainingTimesLastYear	Количество часов повышения квалификации в прошлом году  
+WorkLifeBalance	Уровень удовлетворенности соотношением работы и личной жизни (1-4, где 4 - отличный баланс)   
+YearsAtCompany	Количество лет в компании  
+YearsInCurrentRole	Количество лет в текущей должности  
+YearsSinceLastPromotion	Количество лет с даты последнего повышения  
+YearsWithCurrManager	Количество лет вместе с текущим менеджером  
 
